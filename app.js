@@ -1,1 +1,1 @@
-require(¡®hexo¡¯).init({command: ¡®server¡¯});
+require(Â¡Â®hexoÂ¡Â¯).init({command: Â¡Â®serverÂ¡Â¯});123
